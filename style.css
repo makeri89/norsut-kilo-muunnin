@@ -8,7 +8,7 @@ body {
     background-image: url(norsut.jpeg);
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 800px) {
     body {
         background-image: url(norsu-pysty.jpg);
     }
