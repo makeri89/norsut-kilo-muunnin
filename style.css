@@ -8,6 +8,12 @@ body {
     background-image: url(norsut.jpeg);
 }
 
+@media all and (max-width: 500px) {
+    body {
+        background-image: url(norsu-pysty.jpg);
+    }
+}
+
 #inputKilot {
     margin-top: 5px;
 }
