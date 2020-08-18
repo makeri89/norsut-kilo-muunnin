@@ -1,0 +1,27 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    /* margin: 0; */
+}
+
+body {
+    background-image: url(norsut.jpeg);
+}
+
+#inputKilot {
+    margin-top: 5px;
+}
+
+header {
+    margin: 0 10% 2em 10%;
+    background-color: rgba(214, 214, 194, 0.7);
+    padding: 1em;
+    color: #0b0230;
+}
+
+main {
+    margin: 0 15%;
+    background-color: rgba(214, 214, 194, 0.7);
+    padding: 1em;
+    color: #0b0230;
+}
